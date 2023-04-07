@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: ab2e6c4360a3a4e44b89991ca8f639c5
+timeCreated: 1527304186
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AIR
+    100002: air
+    100004: AIR001
+    100006: Back wall
+    100008: ChamferBox008
+    100010: ChamferBox009
+    100012: ChamferBox011
+    100014: ChamferBox012
+    100016: ChamferBox013
+    100018: Cylinder001
+    100020: Cylinder003
+    100022: Cylinder004
+    100024: Cylinder005
+    100026: Cylinder006
+    100028: Cylinder007
+    100030: Cylinder008
+    100032: Cylinder009
+    100034: Cylinder013
+    100036: Cylinder014
+    100038: Door Wall
+    100040: Door wall
+    100042: ground
+    100044: pillars
+    100046: roof
+    100048: roof 1
+    100050: wall1
+    100052: wallleft
+    100054: wallright
+    100056: //RootNode
+    100058: air001
+    100060: Box001
+    100062: Box003
+    100064: Box004
+    100066: Box005
+    100068: ChamferBox014
+    100070: ChamferBox015
+    100072: ChamferBox016
+    100074: ChamferBox017
+    100076: ChamferBox018
+    100078: ChamferBox019
+    100080: ChamferBox020
+    100082: ChamferBox023
+    100084: ChamferBox024
+    100086: Cylinder015
+    100088: Cylinder019
+    100090: Cylinder020
+    100092: Cylinder021
+    100094: Cylinder022
+    100096: Cylinder023
+    100098: foof
+    100100: Plane001
+    100102: walldoor
+    100104: wallleft 1
+    100106: wallleft001
+    100108: wallleft002
+    100110: wallleft003
+    100112: wallleft004
+    100114: wallleft005
+    100116: wallleft006
+    100118: wallleft007
+    100120: wallleft008
+    100122: wallleft009
+    100124: wallright 1
+    400000: AIR
+    400002: air
+    400004: AIR001
+    400006: Back wall
+    400008: ChamferBox008
+    400010: ChamferBox009
+    400012: ChamferBox011
+    400014: ChamferBox012
+    400016: ChamferBox013
+    400018: Cylinder001
+    400020: Cylinder003
+    400022: Cylinder004
+    400024: Cylinder005
+    400026: Cylinder006
+    400028: Cylinder007
+    400030: Cylinder008
+    400032: Cylinder009
+    400034: Cylinder013
+    400036: Cylinder014
+    400038: Door Wall
+    400040: Door wall
+    400042: ground
+    400044: pillars
+    400046: roof
+    400048: roof 1
+    400050: wall1
+    400052: wallleft
+    400054: wallright
+    400056: //RootNode
+    400058: air001
+    400060: Box001
+    400062: Box003
+    400064: Box004
+    400066: Box005
+    400068: ChamferBox014
+    400070: ChamferBox015
+    400072: ChamferBox016
+    400074: ChamferBox017
+    400076: ChamferBox018
+    400078: ChamferBox019
+    400080: ChamferBox020
+    400082: ChamferBox023
+    400084: ChamferBox024
+    400086: Cylinder015
+    400088: Cylinder019
+    400090: Cylinder020
+    400092: Cylinder021
+    400094: Cylinder022
+    400096: Cylinder023
+    400098: foof
+    400100: Plane001
+    400102: walldoor
+    400104: wallleft 1
+    400106: wallleft001
+    400108: wallleft002
+    400110: wallleft003
+    400112: wallleft004
+    400114: wallleft005
+    400116: wallleft006
+    400118: wallleft007
+    400120: wallleft008
+    400122: wallleft009
+    400124: wallright 1
+    2100000: 'Material #31'
+    2100002: 'Material #26'
+    2100004: No Name
+    2100006: 'Material #25'
+    2100008: 'Material #58'
+    2100010: 'Material #57'
+    2100012: 'Material #91'
+    2100014: 'Material #32'
+    2100016: 'Material #29'
+    2100018: 'Material #236'
+    2100020: 'Material #235'
+    2100022: 'Material #212'
+    2100024: 'Material #189'
+    2100026: 'Material #133'
+    2100028: 'Material #248'
+    2300000: Back wall
+    2300002: ChamferBox008
+    2300004: ChamferBox009
+    2300006: ChamferBox011
+    2300008: ChamferBox012
+    2300010: ChamferBox013
+    2300012: Cylinder001
+    2300014: Cylinder003
+    2300016: Cylinder004
+    2300018: Cylinder005
+    2300020: Cylinder006
+    2300022: Cylinder007
+    2300024: Cylinder008
+    2300026: Cylinder009
+    2300028: Cylinder013
+    2300030: Cylinder014
+    2300032: Door Wall
+    2300034: ground
+    2300036: roof 1
+    2300038: wall1
+    2300040: wallleft
+    2300042: wallright
+    2300044: Box001
+    2300046: Box003
+    2300048: Box004
+    2300050: Box005
+    2300052: ChamferBox014
+    2300054: ChamferBox015
+    2300056: ChamferBox016
+    2300058: ChamferBox017
+    2300060: ChamferBox018
+    2300062: ChamferBox019
+    2300064: ChamferBox020
+    2300066: ChamferBox023
+    2300068: ChamferBox024
+    2300070: Cylinder015
+    2300072: Cylinder019
+    2300074: Cylinder020
+    2300076: Cylinder021
+    2300078: Cylinder022
+    2300080: Cylinder023
+    2300082: Plane001
+    2300084: wallleft 1
+    2300086: wallleft001
+    2300088: wallleft002
+    2300090: wallleft003
+    2300092: wallleft004
+    2300094: wallleft005
+    2300096: wallleft006
+    2300098: wallleft007
+    2300100: wallleft008
+    2300102: wallleft009
+    2300104: wallright 1
+    3300000: Back wall
+    3300002: ChamferBox008
+    3300004: ChamferBox009
+    3300006: ChamferBox011
+    3300008: ChamferBox012
+    3300010: ChamferBox013
+    3300012: Cylinder001
+    3300014: Cylinder003
+    3300016: Cylinder004
+    3300018: Cylinder005
+    3300020: Cylinder006
+    3300022: Cylinder007
+    3300024: Cylinder008
+    3300026: Cylinder009
+    3300028: Cylinder013
+    3300030: Cylinder014
+    3300032: Door Wall
+    3300034: ground
+    3300036: roof 1
+    3300038: wall1
+    3300040: wallleft
+    3300042: wallright
+    3300044: Box001
+    3300046: Box003
+    3300048: Box004
+    3300050: Box005
+    3300052: ChamferBox014
+    3300054: ChamferBox015
+    3300056: ChamferBox016
+    3300058: ChamferBox017
+    3300060: ChamferBox018
+    3300062: ChamferBox019
+    3300064: ChamferBox020
+    3300066: ChamferBox023
+    3300068: ChamferBox024
+    3300070: Cylinder015
+    3300072: Cylinder019
+    3300074: Cylinder020
+    3300076: Cylinder021
+    3300078: Cylinder022
+    3300080: Cylinder023
+    3300082: Plane001
+    3300084: wallleft 1
+    3300086: wallleft001
+    3300088: wallleft002
+    3300090: wallleft003
+    3300092: wallleft004
+    3300094: wallleft005
+    3300096: wallleft006
+    3300098: wallleft007
+    3300100: wallleft008
+    3300102: wallleft009
+    3300104: wallright 1
+    4300000: ground
+    4300002: wallleft
+    4300004: Back wall
+    4300006: wallright
+    4300008: wall1
+    4300010: Cylinder001
+    4300012: ChamferBox008
+    4300014: Cylinder003
+    4300016: ChamferBox009
+    4300018: Cylinder004
+    4300020: Cylinder005
+    4300022: Cylinder006
+    4300024: Cylinder007
+    4300026: Cylinder008
+    4300028: Cylinder009
+    4300030: Door Wall
+    4300032: ChamferBox011
+    4300034: ChamferBox012
+    4300036: ChamferBox013
+    4300038: roof
+    4300040: Cylinder013
+    4300042: Cylinder014
+    4300044: Cylinder022
+    4300046: Box001
+    4300048: Cylinder023
+    4300050: Cylinder021
+    4300052: Cylinder019
+    4300054: Cylinder020
+    4300056: wallleft005
+    4300058: ChamferBox017
+    4300060: ChamferBox018
+    4300062: ChamferBox019
+    4300064: Cylinder015
+    4300066: ChamferBox015
+    4300068: ChamferBox016
+    4300070: ChamferBox014
+    4300072: wallleft003
+    4300074: wallleft004
+    4300076: wallleft002
+    4300078: ChamferBox024
+    4300080: Box004
+    4300082: Box005
+    4300084: Box003
+    4300086: ChamferBox023
+    4300088: ChamferBox020
+    4300090: wallleft008
+    4300092: wallleft007
+    4300094: wallleft006
+    4300096: Plane001
+    4300098: wallleft001
+    4300100: wallleft009
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 682ac49021416574997034600293090a
+timeCreated: 1527358266
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: curveCactusGrass
+    100002: curveCactusGrass1
+    100004: curveCactusGrass2
+    100006: curveCactusGrass3
+    100008: curveCortinarius
+    100010: curveCortinarius1
+    100012: curveGrassBent
+    100014: curveGrassBent1
+    100016: curveGrassBent10
+    100018: curveGrassBent2
+    100020: curveGrassBent3
+    100022: curveGrassBent4
+    100024: curveGrassBent5
+    100026: curveGrassBent6
+    100028: curveGrassBent7
+    100030: curveGrassBent8
+    100032: curveGrassBent9
+    100034: curveGrassBermuda
+    100036: curveGrassBermuda1
+    100038: curveGrassBermuda2
+    100040: curveGrassBermuda3
+    100042: curveGrassBermuda4
+    100044: curveGrassBermuda5
+    100046: curveGrassBermuda6
+    100048: curveGrassBermuda7
+    100050: curveGrassClump
+    100052: curveGrassClump1
+    100054: curveGrassClump2
+    100056: curveGrassClump3
+    100058: curveGrassClump4
+    100060: curveGrassClump5
+    100062: curveGrassClump6
+    100064: curveGrassClump7
+    100066: curveGrassClump8
+    100068: curveGrassClump9
+    100070: curveMicaCap
+    100072: curveMicaCap1
+    100074: curveMicaCap2
+    100076: //RootNode
+    100078: pCube1
+    100080: pSphere1
+    100082: strokeCactusGrass1
+    100084: strokeCactusGrass2
+    100086: strokeCactusGrass3
+    100088: strokeCactusGrass4
+    100090: strokeCortinarius1
+    100092: strokeCortinarius2
+    100094: strokeGrassBent1
+    100096: strokeGrassBent2
+    100098: strokeGrassBent7
+    100100: strokeGrassBent8
+    100102: strokeGrassBermuda1
+    100104: strokeGrassBermuda2
+    100106: strokeGrassBermuda3
+    100108: strokeGrassBermuda4
+    100110: strokeGrassBermuda5
+    100112: strokeGrassBermuda6
+    100114: strokeGrassBermuda7
+    100116: strokeGrassBermuda8
+    100118: strokeGrassClump1
+    100120: strokeGrassClump10
+    100122: strokeGrassClump2
+    100124: strokeGrassClump3
+    100126: strokeGrassClump4
+    100128: strokeGrassClump5
+    100130: strokeGrassClump6
+    100132: strokeGrassClump7
+    100134: strokeGrassClump8
+    100136: strokeGrassClump9
+    100138: strokeMicaCap1
+    100140: strokeMicaCap2
+    100142: strokeMicaCap3
+    400000: curveCactusGrass
+    400002: curveCactusGrass1
+    400004: curveCactusGrass2
+    400006: curveCactusGrass3
+    400008: curveCortinarius
+    400010: curveCortinarius1
+    400012: curveGrassBent
+    400014: curveGrassBent1
+    400016: curveGrassBent10
+    400018: curveGrassBent2
+    400020: curveGrassBent3
+    400022: curveGrassBent4
+    400024: curveGrassBent5
+    400026: curveGrassBent6
+    400028: curveGrassBent7
+    400030: curveGrassBent8
+    400032: curveGrassBent9
+    400034: curveGrassBermuda
+    400036: curveGrassBermuda1
+    400038: curveGrassBermuda2
+    400040: curveGrassBermuda3
+    400042: curveGrassBermuda4
+    400044: curveGrassBermuda5
+    400046: curveGrassBermuda6
+    400048: curveGrassBermuda7
+    400050: curveGrassClump
+    400052: curveGrassClump1
+    400054: curveGrassClump2
+    400056: curveGrassClump3
+    400058: curveGrassClump4
+    400060: curveGrassClump5
+    400062: curveGrassClump6
+    400064: curveGrassClump7
+    400066: curveGrassClump8
+    400068: curveGrassClump9
+    400070: curveMicaCap
+    400072: curveMicaCap1
+    400074: curveMicaCap2
+    400076: //RootNode
+    400078: pCube1
+    400080: pSphere1
+    400082: strokeCactusGrass1
+    400084: strokeCactusGrass2
+    400086: strokeCactusGrass3
+    400088: strokeCactusGrass4
+    400090: strokeCortinarius1
+    400092: strokeCortinarius2
+    400094: strokeGrassBent1
+    400096: strokeGrassBent2
+    400098: strokeGrassBent7
+    400100: strokeGrassBent8
+    400102: strokeGrassBermuda1
+    400104: strokeGrassBermuda2
+    400106: strokeGrassBermuda3
+    400108: strokeGrassBermuda4
+    400110: strokeGrassBermuda5
+    400112: strokeGrassBermuda6
+    400114: strokeGrassBermuda7
+    400116: strokeGrassBermuda8
+    400118: strokeGrassClump1
+    400120: strokeGrassClump10
+    400122: strokeGrassClump2
+    400124: strokeGrassClump3
+    400126: strokeGrassClump4
+    400128: strokeGrassClump5
+    400130: strokeGrassClump6
+    400132: strokeGrassClump7
+    400134: strokeGrassClump8
+    400136: strokeGrassClump9
+    400138: strokeMicaCap1
+    400140: strokeMicaCap2
+    400142: strokeMicaCap3
+    2100000: phongE1
+    2100002: phongE2
+    2300000: pCube1
+    2300002: pSphere1
+    3300000: pCube1
+    3300002: pSphere1
+    4300000: pSphere1
+    4300002: pCube1
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
